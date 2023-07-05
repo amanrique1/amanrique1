@@ -1,6 +1,4 @@
-### Hi there, I'm Andrés Manrique 👋
-
-## I'm just a guy that like everything with code 💻
+## Just a guy that like everything with code 💻
 
 - 🎓 Systems and computing engineer from Universidad de los Andes
 - 🌟 DS4A Colombia graduated with honors
