@@ -23,7 +23,6 @@
 <img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="Quarkus" width="26px" src="https://design.jboss.org/quarkus/logo/final/PNG/quarkus_icon_rgb_1024px_default.png" />
-<img align="left" alt="Django" width="26px" src="https://fullcoder.org/_images/logo-django.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
@@ -35,5 +34,5 @@
 ## Github Stats 📈
 
 [![amanrique1's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanrique1)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanrique1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanrique1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
